@@ -2,6 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,50:00F260,100:0575E6&height=230&section=header&text=Amin%20Ahmed%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Lead%20Solutions%20Architect%20%40%20Sprinklr&descAlignY=52&descSize=20&descAlign=50" width="100%"/>
 
+### 🐍 My Contribution Journey
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aa2kb/aa2kb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aa2kb/aa2kb/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aa2kb/aa2kb/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F260&center=true&vCenter=true&width=850&lines=Lead+Solutions+Architect+%40+Sprinklr+%F0%9F%9A%80;AI+Systems+Architect+%7C+Agentic+AI+Engineer;Building+Autonomous+Agents+That+Ship+to+Production;10%2B+Years+Turning+Complex+Systems+Into+Simple+Wins" alt="Typing SVG" />
 </a>
@@ -190,14 +198,6 @@ Build systems people can trust, use, and scale
 ---
 
 <div align="center">
-
-### 🐍 My Contribution Journey
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aa2kb/aa2kb/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aa2kb/aa2kb/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aa2kb/aa2kb/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
 
 ⭐️ Always building. Always evolving.
 
