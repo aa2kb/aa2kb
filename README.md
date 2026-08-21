@@ -158,21 +158,6 @@ AI workflows  → Stateful systems with context
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aa2kb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa2kb&layout=compact&theme=radical&hide_border=true" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=aa2kb&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=aa2kb&theme=radical&no-frame=true&row=1&column=7&margin-w=8" width="90%" />
-
-</div>
-
----
-
 ## 🔥 Now
 
 - Leading **solutions architecture at Sprinklr** as Lead Solutions Architect
