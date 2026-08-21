@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,50:00F260,100:0575E6&height=230&section=header&text=Amin%20Ahmed%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Lead%20Solutions%20Architect%20%40%20Sprinklr&descAlignY=52&descSize=20&descAlign=50" width="100%"/>
 
-### 🐍 My Contribution Journey
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aa2kb/aa2kb/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aa2kb/aa2kb/output/github-contribution-grid-snake.svg" />
